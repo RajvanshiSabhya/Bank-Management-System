@@ -17,7 +17,7 @@ The **Bank Management System** is a software application designed to facilitate 
 - **Programming Language**: Java
 - **Database**: MySQL
 - **Database Connection**: JDBC
-- **IDE**: IntelliJ IDEA / Eclipse / NetBeans
+- **IDE**: IntelliJ IDEA
 
 ## Installation
 1. **Clone the Repository**
