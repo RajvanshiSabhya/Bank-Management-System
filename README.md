@@ -1,5 +1,4 @@
 # Bank-Management-System
-# Bank Management System
 
 ## Overview
 The **Bank Management System** is a software application designed to facilitate banking operations such as account creation, login authentication, balance inquiry, money withdrawal, deposit, and fund transfers. The system is built using Java for backend logic and MySQL for secure data storage. It ensures a smooth and secure banking experience with a well-structured database and efficient functionalities.
