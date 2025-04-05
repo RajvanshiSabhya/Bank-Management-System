@@ -79,12 +79,8 @@ The MySQL database consists of tables for storing user details, account informat
 - Use blockchain for transaction transparency.
 
 ## Contributors
-- **Sabhya Rajvanshi** (Project Lead & Developer)
-- **Team Código Maestro**
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- **Sabhya Rajvanshi** (Project Developer)
 
 ## Contact
-For queries or contributions, reach out via GitHub or email at `your.email@example.com`.
+For queries or contributions, reach out via GitHub or email at `rajvanshisabhya9@gmail.com`.
 
